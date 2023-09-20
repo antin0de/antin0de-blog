@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git add .
-git commit -m "Update contnet"
+git commit -m "Update content"
 git push
