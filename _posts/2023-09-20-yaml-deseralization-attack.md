@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Lies Within write-up"
+title: "YAML deserialization attack"
 date: 2023-09-20 09:01:22 -0400
 categories: [Misc]
 ---
